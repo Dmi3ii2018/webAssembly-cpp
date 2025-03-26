@@ -1,2 +1,4 @@
-# webAssembly based on c++
-![Uploading Screenshot 2025-03-16 at 21.52.59.png…]()
+# webAssembly based on c++, bitmap images
+
+Deploy - https://dmi3ii2018.github.io/webAssembly-cpp/
+
